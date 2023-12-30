@@ -7,7 +7,7 @@ sitemap: true
 ---
 <img style="float: right;" src="jc.jpg" width="210">
 
-I am a PhD student at Universidad Carlos III de Madrid. 
+I am a PhD student at Universidad Carlos III de Madrid in Mathematical Engineering
 
 My research interests are:
 
